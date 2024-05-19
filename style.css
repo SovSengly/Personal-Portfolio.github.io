@@ -330,10 +330,10 @@ nav .fa-solid{
         /* height: 100%; */
     }
     #header{
-        background-image: url(Images/Phone-bg.jpg);
+        background-image: url(Images/phonebg.jpg);
     }
     .header-text{
-        margin-top: 100%;
+        margin-top: 120%;
         font-size: 20px;
     }
     .header-text h1{
